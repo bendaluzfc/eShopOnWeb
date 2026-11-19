@@ -9,7 +9,7 @@ env:
   LOCATION: uk
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 00e3e7b4-973a-4a98-9283-d4f70b5f4894
-  WEBAPP-NAME: devops-webapp-uk-67566430
+  WEBAPP-NAME: devops-webapp-uksouth-67566430
 
 jobs:
   #Build, test and publish .net web project in repository
